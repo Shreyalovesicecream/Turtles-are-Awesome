@@ -1,0 +1,34 @@
+html{
+	background-image: url("https://cdn4.vectorstock.com/i/thumb-large/69/63/turtle-wallpaper-vector-2716963.jpg");
+	background-size: cover;
+}
+	h1{
+	font-family: 'Stick No Bills', sans-serif;
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+	font-size: xxx-large;
+}
+p{
+	font-family:'Edu VIC WA NT Beginner', cursive;
+	font-size: xx-large;
+	color: black ;
+	margin-top: 100 px;
+	text-align: center;
+}
+button{
+	background-color: salmon;
+	color: white;
+	text-decoration: underline;
+	text-transform: uppercase;
+	border-color: salmon;
+	display:block; margin: 0 auto;
+	font-size: xx-large;
+	font-family: 'Bebas Neue', cursive;
+}
+.btn{
+	
+}
+.button1{
+	
+}
